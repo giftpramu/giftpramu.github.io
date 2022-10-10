@@ -1,0 +1,27 @@
+.part{
+    margin: 40px;
+    border: 1px solid #ccc;
+    float:none;
+    width: 390px;
+}
+.part img{
+width: 250px;
+height: 250px;
+}
+
+.pto{
+    background-image: url("https://img1.goodfon.com/wallpaper/nbig/5/48/girl-traveling-adventure-photo-lake-boat-mist-fog.jpg");
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 1000px;
+    background-position: center;
+}
+p{
+    text-align: center;
+    font-size: 70px;
+    text-transform: capitalize;
+    font-weight: bold;
+}
+body{
+    background-color: #BBBBBB;
+}
